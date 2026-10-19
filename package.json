@@ -4,7 +4,9 @@
   "description": "Run a Node script as one typed operation: JSON input admitted by a declared type on standard input, the declared output type checked before it is written, refusals reported as data.",
   "type": "module",
   "license": "UNLICENSED",
-  "files": ["src"],
+  "files": [
+    "src"
+  ],
   "exports": {
     ".": "./src/operation.mjs",
     "./package.json": "./package.json"
@@ -18,7 +20,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/red-cup-engineering/computer-code-engineering-services-section.git",
-    "directory": "services/javascript-engineering-services-section/services/javascript-node-services-section/services/javascript-node-operation-service"
+    "url": "git+https://github.com/red-cup-engineering/javascript-node-operation-service.git"
   }
 }
