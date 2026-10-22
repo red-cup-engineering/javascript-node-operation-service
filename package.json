@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "Run a Node script as one typed operation: JSON input admitted by a declared type on standard input, the declared output type checked before it is written, refusals reported as data.",
   "type": "module",
-  "license": "UNLICENSED",
+  "license": "MIT",
   "files": [
     "src"
   ],
@@ -21,5 +21,9 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/red-cup-engineering/javascript-node-operation-service.git"
+  },
+  "funding": {
+    "type": "individual",
+    "url": "https://github.com/561-group/.github/blob/main/TIPS.md"
   }
 }
